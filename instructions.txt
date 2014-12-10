@@ -1,0 +1,5 @@
+Step 1: download the inputOutput.py from github
+Step 2: open the terminal in your computer (Ctrl+Alt+T in Linux OS)
+Step 3: go to the directory where the inputOutput.py file it is
+Step 4: run the inputOutput.py file with command "python ./inputOutput.py" 
+Step 5: react based on the program and test its functionality:)
